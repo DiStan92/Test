@@ -1,11 +1,11 @@
-# Booking-a-Hottel-Room platform Back-End
+# api_wb platform Back-End
 
 ## Setup
 
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/DiStan92/Test.git
+$ git clone https://github.com/DiStan92/Test.git -b develop
 $ cd api_wb
 ```
 
